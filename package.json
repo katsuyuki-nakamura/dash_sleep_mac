@@ -1,0 +1,14 @@
+{
+  "name": "dash_sleep_mac",
+  "version": "1.0.0",
+  "description": "Mac sleep switch using Amazon dash button",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "462soft",
+  "license": "ISC",
+  "dependencies": {
+    "node-dash-button": "^0.6.1"
+  }
+}
